@@ -14,4 +14,4 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 ## ⚡ Fun facts
 
-- I love playing guitar in my spare time. 🍻
+- I love playing guitar in my spare time. 😄
