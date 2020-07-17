@@ -15,3 +15,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 ## ⚡ Fun facts
 
 - I love playing guitar in my spare time. 😄
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dansilva41)](https://twitter.com/dansilva41)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilosilvap)](https://www.linkedin.com/in/danilosilvap)
