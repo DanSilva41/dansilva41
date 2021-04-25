@@ -16,7 +16,7 @@ I'm mainly working with Spring Boot, Java 8/11, containers, cloud and also with 
 ```javascript
 const dan = {
   code: [Java, Javascript, Typescript, HTML, CSS, Bash],
-  tools: [Angula,, Redux, Node, Quarkus, Spring Framework, Docker, Maven, Gradle, Hibernate, JPA, Intellij IDEA, Web Storm],
+  tools: [Angular, Redux, Node, Quarkus, Spring Framework, Docker, Maven, Gradle, Hibernate, JPA, Intellij IDEA, Web Storm],
   architecture: ["microservices", "clean-arquicture", "design system pattern"]
 }
 ```
