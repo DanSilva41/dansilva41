@@ -32,5 +32,3 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 - I love playing guitar in my spare time. 😄</br>
 - I love teaching and learning!
-
-![Danilo Silva's Github Stats](https://github-readme-stats.vercel.app/api?username=dansilva41&show_icons=true)
