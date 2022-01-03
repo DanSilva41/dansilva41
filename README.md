@@ -6,7 +6,7 @@
 ## Hi there 👋
 <img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="230">
 
-Senior Software Engineer with Java expertise at [CI&T](https://ciandt.com/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
+Senior Software Engineer with Java expertise at [Jaya](https://jaya.tech/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 I'm mainly working with Spring Boot, Java 8/11, containers, cloud and also with Node.js and TypeScript.
 
 **😄 Pronouns**: He/Him
