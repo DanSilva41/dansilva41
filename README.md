@@ -7,7 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="230">
 
 Senior Software Engineer with Java expertise at [Jaya](https://jaya.tech/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
-I'm mainly working with Spring Boot, Java 8/11/, Kotlin, metrics/perfomance, code quality, containers and cloud.
+I'm mainly working with Spring Boot, Java 8/11/17, Kotlin, Kafka, metrics/perfomance, code quality, containers and cloud.
 
 **😄 Pronouns**: He/Him
 
@@ -16,7 +16,7 @@ I'm mainly working with Spring Boot, Java 8/11/, Kotlin, metrics/perfomance, cod
 ```javascript
 const dan = {
   code: [Java, Kotlin, Javascript, Typescript, HTML, CSS, Bash],
-  tools: [Angular, Redux, Node, Quarkus, Spring Framework, Docker, Maven, Gradle, Hibernate, JPA, Intellij IDEA, Web Storm],
+  tools: [Angular, Redux, Node, Quarkus, Spring Framework, Docker, Kafka, MongoDB, Maven, Gradle, Hibernate, JPA, Intellij IDEA, Web Storm],
   architecture: ["microservices", "clean-arquicture", "design system pattern"]
 }
 ```
@@ -25,8 +25,8 @@ const dan = {
 
 I love to talk to people and discuss tech! You can reach me out on any channels below!
 
-- 🔗 I have a personal website at [https://danilosilva.tk/](https://danilosilva.tk/) where all my social networks are located! You can reach me anywhere over there!
-- 📝 I also have a blog at [https://danilosilva.tk/blog](https://danilosilva.tk/blog)
+- 🔗 I have a personal website at [danilosilva.tk/](https://danilosilva.tk/) where all my social networks are located! You can reach me anywhere over there!
+- 📝 I also have a blog at [danilosilva.tk/blog](https://danilosilva.tk/blog)
 
 ## ⚡ Fun facts
 
