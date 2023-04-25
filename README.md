@@ -25,8 +25,8 @@ const dan = {
 
 I love to talk to people and discuss tech! You can reach me out on any channels below!
 
-- 🔗 I have a personal website at [danilosilva.tk/](https://danilosilva.tk/) where all my social networks are located! You can reach me anywhere over there!
-- 📝 I also have a blog at [danilosilva.tk/blog](https://danilosilva.tk/blog)
+- 🔗 I have a personal website at [danilosilva.tk](https://danilosilva.vercel.app/) where all my social networks are located! You can reach me anywhere over there!
+- 📝 I also have a blog at [danilosilva.tk/blog](https://danilosilva.vercel.app/blog)
 
 ## ⚡ Fun facts
 
